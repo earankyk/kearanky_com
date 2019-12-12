@@ -1,5 +1,8 @@
-To build the blog run:
+To test the blog locally run:
 ```
-cd $DIR
-hugo -D 
+hugo server -D
+```
+To deploy the blog run:
+```
+hugo -D -d ~/git/kearanky_blog/public/
 ```

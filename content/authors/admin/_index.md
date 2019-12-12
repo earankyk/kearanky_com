@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like hacking distributed systems, linux and container infrastructure.
+bio: I like hacking on distributed systems, linux and infrastructure.
 
 interests:
 - Linux
