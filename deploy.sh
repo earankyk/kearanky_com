@@ -3,7 +3,7 @@
 # Intended to be called as a cron to deploy from git master
 cd "$(dirname "$0")"
 git fetch --all
-if [[ $(git status --porcelain) ]]; then
+if [[ $(git status -uno) ]]; then
     git reset --hard origin/master
     rm -rf public/*
     /usr/bin/hugo -D -d public/
