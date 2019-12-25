@@ -4,5 +4,5 @@ hugo server -D
 ```
 To deploy the blog run:
 ```
-hugo -D -d ~/git/kearanky_blog/public/
+hugo -D -d public/
 ```
