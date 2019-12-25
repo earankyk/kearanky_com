@@ -7,5 +7,5 @@ if [[ $(git status -uno) ]]; then
     git reset --hard origin/master
     rm -rf public/*
     /usr/bin/hugo -D -d public/
-    echo "$(date +\"%Y-%m-%d_%H-%M-%S\") Rebuilt website" > /var/log/"$0"
+    echo "$(date +\"%Y-%m-%d_%H-%M-%S\") Rebuilt website" > /var/log/kearanky_com
 fi
