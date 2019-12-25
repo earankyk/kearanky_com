@@ -23,6 +23,17 @@ image:
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+
+gallery_item:
+- album: hike_pres
+  image: day1.jpg
+- album: hike_pres
+  image: day2.jpg 
+- album: hike_pres
+  image: day3.jpg 
+- album: hike_pres
+  image: day4.jpg 
+
 ---
 
 I did the 4d/3n Inca trail during Nov 2019, and was in total awe of my experience. This series of blog posts summarizes my experiences during the trip.
@@ -64,3 +75,43 @@ I read through several packing guides for the Inca trail and bought most of my h
 3. Medium weight Fleece Jacket.  
 4. Celestron Outlander Binoculars.  
 5. Merino wool hiking socks (highly recommend).  
+
+I could get a visa on arrival at Peru thanks to my Indian passport and US visa. But G also helps you out with
+applying for the visa if needed.
+
+### Departure to Peru
+G was super helpful in giving all the neccessary information needed for my arrival. They sent me an email containing the
+info of my CEO (Chief Experience Officer, G's version of a tour guide), where I would meet the rest of the group and
+a reminder of the essentials to pack.  
+
+> Kudos to G for making my departure anxiety-free by providing me with all the requisite information
+
+### In Lima!
+![flight_shot](./flight_shot.jpg)
+
+> You can start seeing the andes mountains even as you're flying into Lima.
+
+I spent two days in Lima before heading to Cusco. Lima is a beautiful cosmopolitan city. The Miraflores neigborhood, where I stayed was quite tourist friendly. 
+
+![beach_shot](./lima_beach.jpg)
+
+> I spent some time at the beach facing Miraflores park enjoying the sunset.
+
+Lima (also known as the city of kings) has a lot of history around it - It was the capital city of the invading Spaniards founded in 1532. The city's downtown area buildings are all heavily inspired by the European architectural patterns of the time.
+
+I took a walking tour of the city's downtown district with a local. We went to the catacombs, checked out the city square and made some delicious pisco sour!
+
+
+{{< gallery >}}
+
+> Be sure to try the Pisco Sour while you're in Peru!
+
+### To Cusco
+Cusco is the closest big city to Macchu Picchu. While Lima is cosmopolitan, Cusco is more culturally rich. It's also very touristy since all the travellers to Macchu Picchu go through Cusco. Cusco is located at an altitude of 11000 ft., and is therefore a good place to get acclamatized to the altitude before you begin the hike.  
+
+In Cusco, we met our CEO for the Inca trail, Nick. He was warm, welcoming and funny. He gave us a detailed overview of what to expect over the hike.
+
+{{< gallery album="hike_pres" >}}
+
+> The presentation covered the distance, altitude and duration we would hike each day.
+
