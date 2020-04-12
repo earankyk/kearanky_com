@@ -42,9 +42,6 @@ In-order to aid my decision making, I built this webapp to compare the returns f
 Feel free to use [this code](https://github.com/earankyk/401k_helper) as a starting point to build your own comparisons!
 
 ### Tax Advantaged vs After Tax Returns
-<html>
-Hello!
-</html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
