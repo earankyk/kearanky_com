@@ -1,6 +1,12 @@
 data/
 public/
 layouts/
-resources/
+# Committing resources/_gen/assets since Netlify doesn't support Hugo extended, so 
+# we provide the scss assets to Netlify directly
+!resources/
+resources/*
+!resources/_gen/
+resources/_gen/*
+!resources/_gen/assets/
 archetypes/
 test/
