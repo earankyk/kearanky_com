@@ -10,29 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Software Development Engineer
+# role: Software Development Engineer
 
 # Organizations/Affiliations
-organizations:
-- name: Amazon Web Services
-  url: "https://aws.amazon.com/"
+# organizations:
+# - name: Amazon Web Services
+#   url: "https://aws.amazon.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like hacking on distributed systems, linux and infrastructure.
+bio: I write about whatever I'm learning (amateur alert)
 
-interests:
-- Linux
-- Distributed Systems
-- Infrastructure
+# interests:
+# - Linux
+# - Distributed Systems
+# - Infrastructure
 
-education:
-  courses:
-  - course: MS in Computer Science
-    institution: Purdue University
-    year: 2018
-  - course: BE in Computer Science
-    institution: BITS Pilani
-    year: 2016
+# education:
+#   courses:
+#   - course: MS in Computer Science
+#     institution: Purdue University
+#     year: 2018
+#   - course: BE in Computer Science
+#     institution: BITS Pilani
+#     year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -72,4 +72,4 @@ user_groups: []
 
 `Listens more, talks less`
 
-I like learning about large scale distributed systems, the linux operating system, containers, and the cloud.
+I ramble on here about whatever I'm learning (amateur alert).
