@@ -64,7 +64,7 @@ user_groups: []
 #- Visitors
 ---
 
-**Me a haiku:**
+**Me, a haiku:**
 
 `Hacks code, drinks coffee` 
 
