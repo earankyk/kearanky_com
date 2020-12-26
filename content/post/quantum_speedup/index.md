@@ -18,6 +18,11 @@ image:
 
 ---
 
+---
+**The jupyter notebook version of this post is hosted [here](https://quantum.kearanky.com).**
+
+---
+
 ## How does quantum computing differ from ..computing?
 
 The fundamental difference between a regular computer and a quantum computer is the physics. A regular computer's bits can be in a state of 0 or 1. A quantum computer's *qubits* can be in a state of 0 and 1 simultaneously. We don't know the state of the qubit until we measure it (think Schrodinger's cat). 
