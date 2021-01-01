@@ -6,7 +6,6 @@ authors:
 - admin
 tags: [performances, ukelele]
 categories: [performances, ukulele]
-date: "2019-03-10T00:00:00Z"
 featured: false
 draft: false
 

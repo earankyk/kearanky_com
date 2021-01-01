@@ -6,7 +6,6 @@ authors:
 - admin
 tags: [writing, story-telling, short-story]
 categories: [writing, story-telling, short-story]
-date: "2019-03-10T00:00:00Z"
 featured: false
 draft: false
 

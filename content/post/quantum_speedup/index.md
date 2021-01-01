@@ -6,8 +6,7 @@ authors:
 - admin
 tags: [technology, quantum-computing, computer-science]
 categories: [technology, quantum-computing, computer-science]
-date: "2019-03-10T00:00:00Z"
-featured: false
+featured: true
 draft: false
 
 # Featured image
