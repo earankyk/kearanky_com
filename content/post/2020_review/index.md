@@ -6,7 +6,7 @@ authors:
 - admin
 tags: [self-help, goals, featured]
 categories: [self-help, goals]
-featured: true
+featured: false
 draft: false
 
 # Featured image
